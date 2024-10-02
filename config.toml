@@ -1,0 +1,205 @@
+baseURL = "https://bata.bangunan.co/"
+languageCode = "id"
+title = "Bata Bangunan | Menjual Bata Merah Bata Hebel Terdekat Gratis Ongkos Kirim"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Agen Bata Berkualitas - Jual Bata Merah dan Bata Hebel dengan harga bersaing, gratis biaya pengiriman dan bongkar."
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/bangunanco-logo-web.png"
+  logo_amp = "/images/logo/bangunanco-512x512.png"
+  footer_logo = "/images/logo/bangunanco-logo-putih.png"
+  favicon = "/images/logo/bangunanco-512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Yaman"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+  # Schema settings
+  keywords = ["jual bata merah", "bata hebel", "bata bangunan", "bata murah", "agen bata merah", "bata hebel murah", "bata ringan", "jual bata berkualitas"]
+  base_price = 1000
+  price_range = 500
+  free_shipping = true
+  materials = [
+  "Bata Merah",
+  "Bata Hebel",
+  "Bata Ringan",
+  "Bata Press",
+  "Bata Expose",
+  "Bata Jumbo"
+  ]
+  categories = ["Bata Merah", "Bata Hebel", "Bata Ringan", "Bata Press", "Bata Expose", "Bata Jumbo"]
+  payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar Ditempat", "Transfer Setelah Pengiriman"]
+  area_served = [
+    "Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Bandung", "Cimahi", "Sukabumi", "Cirebon", "Garut", "Tasikmalaya", "Sumedang", "Subang", "Karawang", "Purwakarta", "Cianjur", "Majalengka", "Indramayu", "Kuningan", "Banjar", "Pangandaran", "Kabupaten Bandung", "Kabupaten Bogor", "Kabupaten Bekasi", "Kabupaten Cirebon", "Kabupaten Garut", "Kabupaten Indramayu", "Kabupaten Karawang", "Kabupaten Kuningan", "Kabupaten Majalengka", "Kabupaten Pangandaran", "Kabupaten Purwakarta", "Kabupaten Subang", "Kabupaten Sukabumi", "Kabupaten Sumedang", "Kabupaten Tasikmalaya", "Serang", "Cilegon", "Tangerang Selatan", "Lebak", "Pandeglang", "Kabupaten Tangerang", "Kabupaten Serang", "Semarang", "Surakarta", "Magelang", "Salatiga", "Pekalongan", "Tegal", "Cilacap", "Purwokerto", "Pati", "Jepara", "Kudus", "Demak", "Blora", "Grobogan", "Kendal", "Temanggung", "Wonosobo", "Purworejo", "Kabupaten Magelang", "Kabupaten Boyolali", "Kabupaten Klaten", "Kabupaten Sragen", "Kabupaten Karanganyar", "Kabupaten Sukoharjo", "Kabupaten Wonogiri", "Kabupaten Pati", "Kabupaten Blora", "Kabupaten Grobogan", "Kabupaten Kudus", "Kabupaten Jepara", "Kabupaten Demak", "Kabupaten Batang", "Kabupaten Pekalongan", "Kabupaten Pemalang", "Kabupaten Tegal", "Kabupaten Brebes", "Kabupaten Cilacap", "Kabupaten Banyumas", "Kabupaten Purbalingga", "Kabupaten Banjarnegara", "Kabupaten Kebumen", "Kabupaten Temanggung", "Kabupaten Wonosobo", "Kabupaten Kendal", "Kabupaten Semarang", "Kabupaten Purworejo", "Surabaya", "Malang", "Batu", "Blitar", "Kediri", "Mojokerto", "Madiun", "Pasuruan", "Probolinggo", "Jember", "Lumajang", "Bondowoso", "Banyuwangi", "Situbondo", "Ngawi", "Magetan", "Pacitan", "Ponorogo", "Trenggalek", "Tulungagung", "Kabupaten Sidoarjo", "Kabupaten Gresik", "Kabupaten Lamongan", "Kabupaten Bojonegoro", "Kabupaten Tuban", "Kabupaten Jombang", "Kabupaten Nganjuk", "Kabupaten Madiun", "Kabupaten Magetan", "Kabupaten Ngawi", "Kabupaten Pacitan", "Kabupaten Ponorogo", "Kabupaten Blitar", "Kabupaten Tulungagung", "Kabupaten Kediri", "Kabupaten Malang", "Kabupaten Probolinggo", "Kabupaten Pasuruan", "Kabupaten Lumajang", "Kabupaten Jember", "Kabupaten Bondowoso", "Kabupaten Banyuwangi", "Kabupaten Situbondo"
+  ]
+  return_policies = [
+  "Material bisa ditukar dalam 1 hari jika tidak sesuai.",
+  "Penggantian atau pengembalian gratis untuk barang yang rusak atau cacat.",
+  "Material yang tidak sesuai pesanan dapat dikembalikan tanpa biaya tambahan."
+  ]
+
+ # Hero Section
+  hero_image = "/images/admin/bg_bangunanco.png"
+  hero_title = "Agen Bata Bangunan Terpercaya"
+  hero_description = "Kami menjual berbagai jenis bata berkualitas untuk kebutuhan konstruksi bangunan. Solusi ideal untuk dinding dan bangunan yang kuat, dengan layanan gratis ongkir dan bongkar."
+  hero_cta_text = "Pelajari Lebih Lanjut"
+  services_cta_text = "Cek Katalog Bata"
+
+  # Footer Section
+  footer_about_title = "Mengapa Memilih Kami"
+  footer_about_description = "Kami menyediakan bata berkualitas tinggi dengan harga terjangkau dan layanan pengiriman gratis ongkir dan bongkar. Kami juga memberikan konsultasi gratis untuk membantu Anda memilih jenis bata yang tepat untuk proyek bangunan Anda."
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 Bangunan.co. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "bata.bangunan.co menawarkan berbagai jenis bata berkualitas seperti bata merah dan bata hebel. Kami mengutamakan kepuasan pelanggan dengan produk material berkualitas dan harga yang terjangkau. Pilih kami untuk memenuhi kebutuhan bata proyek bangunan Anda."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jalan Lkr. Dramaga No. 09, Bogor - JaBar"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "bangunanco@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Budi|Agus|Rudi|Dedi|Samsul|Andi|Fajar|Rio|Wawan|Toni}"
+  message = "{Saya membeli|Saya memesan|Saya menggunakan|Saya memilih} bata merah dari bata.bangunan.co untuk {proyek rumah|pembangunan rumah|renovasi rumah|konstruksi rumah} saya, dan hasilnya {sangat memuaskan|luar biasa|mengagumkan|memenuhi ekspektasi}. Kualitas {bata|material|produk} {sangat baik|terbaik|kokoh|solid} dan {pengirimannya|proses pengiriman|pengantaran} {tepat waktu|sesuai jadwal|cepat|sesuai dengan waktu yang dijanjikan}."
+  response = "{Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan bata {berkualitas|terbaik|unggulan|prima} untuk proyek rumah Anda.|Terima kasih, atas kepercayaannya. Kami senang produk bata kami dapat {mendukung|memenuhi kebutuhan|memfasilitasi} proyek Anda.}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Siti|Rina|Ayu|Lina|Fitri|Maya|Dewi|Diah|Nur|Sari}"
+  message = "bata.bangunan.co {sangat membantu|mempermudah|menyediakan informasi yang baik|mendukung} dalam {memilih|menentukan|menyeleksi} jenis bata untuk {proyek|pembangunan|konstruksi} rumah saya. {Material|Bahan|Produk} yang saya beli {berkualitas|bagus|terbaik|bermutu tinggi} dan sesuai dengan {kebutuhan|ekspektasi|keinginan|permintaan} saya."
+  response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan produk bata dari kami.|Terima kasih! Kami senang dapat membantu Anda dalam memilih produk yang sesuai dengan kebutuhan.}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Joko|Bayu|Toni|Galih|Bambang|Ali|Rizal|Faisal|Yanto|Deni}"
+  message = "Bata hebel dari bata.bangunan.co {sangat cocok|tepat|ideal|pas} untuk proyek {perumahan|pembangunan perumahan|konstruksi perumahan|proyek besar} saya. {Proses pembelian|Pembelian|Transaksi} dan {pengirimannya|pengantaran|delivery} juga {cepat|tidak lama|efisien|sesuai harapan} dan {bisa bayar COD|tersedia opsi COD|dapat menggunakan metode COD|COD diterima}."
+  response = "{Terima kasih! Kami berkomitmen untuk menyediakan bata {berkualitas|terbaik|unggulan} dengan layanan {terbaik|terdepan|prima}.|Senang mendengar pengalaman belanja Anda. Terima kasih telah memilih kami!}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Andi|Agus|Dedi|Hendra|Toni|Eko|Wawan|Rio|Gilang|Benny}"
+  message = "{Saya sangat puas|Saya gembira|Saya senang|Saya merasa puas} dengan bata merah dari bata.bangunan.co. Kualitasnya {sangat baik|luar biasa|mantap|kokoh} dan {sesuai|pas|ideal|tepat} untuk proyek {konstruksi|pembangunan|proyek besar|proyek renovasi} saya."
+  response = "{Senang mendengar Anda puas dengan produk kami. Terima kasih atas kepercayaannya!|Terima kasih! Kami sangat menghargai kepercayaan Anda dalam menggunakan produk kami.}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Rina|Siti|Lina|Ayu|Dewi|Fitri|Diah|Nur|Maya|Sari}"
+  message = "Pelayanan bata.bangunan.co {sangat memuaskan|luar biasa|memuaskan|hebat}. Material {bata hebel|hebel|produk bata} yang saya beli {sangat berkualitas|terbaik|luar biasa|berkualitas tinggi} dan {sesuai dengan harapan saya|seperti yang saya inginkan|memenuhi ekspektasi saya|memuaskan}. "
+  response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan bata {terbaik|berkualitas|unggulan}.|Kami sangat menghargai kepercayaan Anda. Senang produk kami dapat mendukung proyek Anda.}"
+  rating = 4.5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Eko|Rio|Benny|Faisal|Wawan|Rizal|Gilang|Agus|Joko|Toni}"
+  message = "{Bata dari bata.bangunan.co sangat sesuai|Material bata dari bata.bangunan.co cocok sekali|Produk bata dari bata.bangunan.co sangat pas} dengan {kebutuhan|spesifikasi|keperluan|persyaratan} proyek {renovasi|pembangunan|konstruksi} rumah saya. {Proses pengirimannya|Pengantaran barangnya|Layanan pengirimannya} {cepat|tidak lama|efisien|sesuai jadwal} dan {aman|terjamin|rapi|tidak ada kendala}."
+  response = "{Kami senang mendengar bahwa Anda puas dengan produk bata kami. Terima kasih atas ulasannya!|Terima kasih! Kami senang dapat memenuhi harapan Anda dengan produk bata kami.}"
+  rating = 5
+
+[[params.tabelItems]]
+  name = "Bata Merah"
+  price = "480 /pcs"
+[[params.tabelItems]]
+  name = "Bata Hebel"
+  price = "6.500 /pcs"
+[[params.tabelItems]]
+  name = "Bata Ringan"
+  price = "6.500 /pcs"
+[[params.tabelItems]]
+  name = "Bata Press"
+  price = "1.500 /pcs"
+[[params.tabelItems]]
+  name = "Bata Expose"
+  price = "1.500 /pcs"
+[[params.tabelItems]]
+  name = "Bata Jumbo"
+  price = "780 /pcs"
+
+[params.appliList]
+  "Bata Merah" = "digunakan untuk dinding rumah dan bangunan"
+  "Bata Hebel" = "digunakan untuk dinding bangunan bertingkat atau area yang memerlukan kekuatan ekstra"
+  "Bata Ringan" = "cocok untuk bangunan bertingkat dan renovasi"
+  "Bata Press" = "digunakan untuk dinding yang kokoh dan tahan lama"
+  "Bata Expose" = "cocok untuk desain dinding eksterior atau interior yang alami"
+  "Bata Jumbo" = "digunakan untuk dinding rumah dengan dengan desain yang tebal"
+
+[params.kegunaanList]
+  "Bata Merah" = "cocok untuk dinding rumah atau bangunan sederhana"
+  "Bata Hebel" = "digunakan dalam proyek bangunan yang memerlukan material ringan namun kuat"
+  "Bata Ringan" = "cocok untuk proyek bangunan bertingkat dengan konstruksi cepat"
+  "Bata Press" = "digunakan untuk dinding dengan kekuatan lebih dan kualitas premium"
+  "Bata Expose" = "untuk dekorasi dinding dengan kesan alami dan klasik"
+  "Bata Jumbo" = "digunakan untuk membangun dinding dengan desain tebal dan kokoh"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "https://bangunan.co/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "https://bangunan.co/daftar-harga/"
+
+[params.header]
+  title = "Agen Bata Merah & Bata Hebel | "
+  highlight = "Bangunan.co"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
