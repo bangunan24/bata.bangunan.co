@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Bantarjati Bogor"
 date: "2024-05-04"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Bantarjati Bogor. Kami ialah penjual yang Jual Bata Ringan Hebel Di Bantarjati Bogor. Bata hebel yang kami pasarkan ialah bata hebe..."
 ---
 
 **Jual Bata Ringan Hebel Di Bantarjati Bogor** – Banyaknya bermunculan tipe material terbaru terutama pada material tembok menjadikan kian beragamnya tipe material di Indonesia terutama Bata. Salah satu macam material yang banyak diterapkan sekarang ini dan masih viral adalah material dinding bata ringan. Bata ringan ini yaitu bata yang terus banyak penggunanya baik di kota-kota maupun di pedesaan. Masyarakat teramat antusias dg bata hebel ini, karena memang banyak banget kelebihan yang ditawarkan oleh bata hebel ini. Selain dari kualitas yang sudah teruji secara konstruksi, juga pas dg standar kualitas material tembok menurut SNI. Bata hebel pun yaitu bata yang amat mudah dipakai, presisi dan tdk memakan banyak matrial lainnya, terkhusus pasir dan semen. Untuk membikin dinding yang lurus dan juga siku amat mudah apabila anda mengerjakannya dg memasang bata ringan ini, karena bata ringan ini dicetak dg permukaan yang rata dan sudut yang presisi, maka saat memasangnya juga akan menghasilkan dinding yang rata dan juga siku. Meskipun terbilang baru bata ringan ini merupakan jenis bata yang mudah diperoleh karena memang hampir setiap kios bangunan menjual bata hebel ini. Untuk Anda yang mau membangun dengan material bata hebel ini tdk susah untuk membelinya Anda bisa membelinya seperti semudah mendapatkan bata merah.
@@ -56,3 +57,5 @@ Itulah macam-macam sisi negatif dari bata ringan, Semoga saja anda bisa memperti
 {{< table-tables table="table2" >}}
 
 Kami ialah penjual yang Jual Bata Ringan Hebel Di Bantarjati Bogor. Bata hebel yang kami pasarkan ialah bata hebel macam AAC, merupakan bata ringan yang diproduksi oleh pabrikan bersertifikat SNI. Kami sendiri tdk menjual bata hebel hasil produksi rumahan atau disebut juga dg bata hebel tipe CLC. Ukuran bata ringan yang kami jual yakni ukuran standar tebal 7,5 cm dan 10 cm, lebar 20cm dan panjang 60 centi meter. Dan untuk merek yang kami pasarkan terdiri dari beragam jenis merk, pas dg ketersediaan stok di pabrik sebab kami mengambil langsung dari pabrik bata hebel. Anda dapat memesan dari kami dengan minimal pemesanan 12,6 kubik dalam sekali pemesanan. Jika anda berkenan dg bata ringan yang kami jual, silakan hubungi kami lewat telepon yang ada di laman ini. Sertakan alamat yang lengkap, nomor HP yang aktif dan ukuran bata ringan yang hendak diorder kepada kami. Jazaakallohu khairan.
+
+**Ref by:** [Bata Ringan Hebel Bantarjati Bogor](https://id.wikipedia.org/wiki/Bata)

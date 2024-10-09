@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Pamoyanan Bogor"
 date: "2024-05-22"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Pamoyanan Bogor. Kami merupakan supplier yang Jual Bata Ringan Hebel Di Pamoyanan Bogor. Bata ringan yang kami pasarkan merupakan b..."
 ---
 
 **Jual Bata Ringan Hebel Di Pamoyanan Bogor** – Banyaknya muncul macam material terbaru khususnya pada material dinding menjadikan semakin banyaknya tipe material di Indonesia terkhusus Bata. Merupakan jenis material yang banyak dipakai waktu ini dan masih viral yaitu material tembok bata ringan. Bata hebel ini adalah bata yang terus bertambah peminatnya apakah di kota-kota ataupun di pinggiran. Masyarakat sangat antusias dg bata ringan ini, sebab memang begitu banyak keunggulan yang ditawarkan oleh bata hebel ini. Selain kekuatan yang sudah teruji secara konstruksi, juga pas dg standar kekuatan material tembok berdasarkan SNI. Bata ringan juga adalah bata yang betul-betul mudah dipakai, presisi dan tdk memakan banyak matrial lainnya, terutama pasir dan semen. Untuk membikin tembok yang lurus dan juga siku betul-betul gampang jika anda mengerjakannya dg memasang bata hebel ini, karena bata ringan ini dicetak dengan permukaan yang rata dan sudut yang presisi, karenanya ketika memasangnya juga akan menjadikan tembok yang rata dan juga siku. Walaupun terbilang baru bata ringan ini yaitu jenis bata yang mudah diperoleh sebab memang hampir seluruh kios bangunan menyediakan bata hebel ini. Untuk Anda yang ingin membangun dg material bata ringan ini tidak sulit untuk membelinya Anda dapat membelinya seperti semudah memperoleh bata merah.
@@ -56,3 +57,5 @@ Itulah beberapa kelemahan dari bata hebel, Mudah-mudahan anda dapat mempertimban
 {{< table-tables table="table2" >}}
 
 Kami merupakan supplier yang Jual Bata Ringan Hebel Di Pamoyanan Bogor. Bata ringan yang kami pasarkan merupakan bata hebel tipe AAC, yakni bata ringan yang diproduksi oleh pabrikan bersertifikat SNI. Kami sendiri tidak memasarkan bata hebel hasil produksi rumahan atau disebut juga dengan bata hebel jenis CLC. Ukuran bata ringan yang kami jual adalah ukuran standar tebal 7,5 cm dan 10 centi meter, lebar 20cm dan panjang 60 cm. Kemudian untuk merek yang kami jual terdapat beraneka macam merk, selaras dengan ketersediaan stok di pabrik sebab kami mengambil langsung dari pabrik bata hebel. Anda dapat memesan dari kami dg minimal pemesanan 12,6 kubik dalam sekali pengorderan. Apabila anda berkenan dg bata hebel yang kami jual, silakan hubungi kami lewat telepon yang ada di web ini. Sertakan data tempat domisili yang lengkap, nomor HP yang aktif dan ukuran bata hebel yang hendak dipesan ke kami. Terima kasih.
+
+**Ref by:** [Bata Ringan Hebel Pamoyanan Bogor](https://id.wikipedia.org/wiki/Bata)

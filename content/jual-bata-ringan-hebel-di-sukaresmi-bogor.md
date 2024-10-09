@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Sukaresmi Bogor"
 date: "2024-04-25"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Sukaresmi Bogor. Kami adalah distributor yang Jual Bata Ringan Hebel Di Sukaresmi Bogor. Bata hebel yang kami jual ialah bata hebel..."
 ---
 
 **Jual Bata Ringan Hebel Di Sukaresmi Bogor** – Banyaknya bermunculan macam material terbaru terutama pada material dinding menjadikan kian beragamnya jenis material di Indonesia terutama Bata. Merupakan tipe material yang banyak diterapkan saat ini dan masih tren adalah material dinding bata hebel. Bata hebel ini ialah bata yang terus meningkat konsumennya baik di ibukota maupun di desa. Masyarakat begitu antusias dengan bata hebel ini, karena memang banyak banget keunggulan yang ditawarkan oleh bata hebel ini. Selain kekuatan yang telah teruji secara konstruksi, juga pas dg standar kualitas material tembok menurut SNI. Bata hebel juga yakni bata yang sungguh-sungguh mudah diterapkan, presisi dan tdk memakan banyak matrial lainnya, terutamanya pasir dan semen. Untuk membuat dinding yang lurus dan juga siku sungguh-sungguh mudah sekiranya anda mengerjakannya dengan memasang bata hebel ini, karena bata hebel ini dicetak dengan permukaan yang rata dan sudut yang presisi, maka ketika memasangnya juga akan menghasilkan dinding yang rata dan juga siku. Meskipun terbilang baru bata hebel ini adalah jenis bata yang mudah didapat sebab memang hampir seluruh kios bangunan menjual bata hebel ini. Untuk Anda yang mau membangun dengan material bata hebel ini tdk sulit untuk mendapatkannya Anda dapat membelinya seperti semudah mendapatkan bata merah.
@@ -56,3 +57,5 @@ Itulah beberapa kelemahan dari bata ringan, Mudah-mudahan anda bisa mempertimban
 {{< table-tables table="table2" >}}
 
 Kami adalah distributor yang Jual Bata Ringan Hebel Di Sukaresmi Bogor. Bata hebel yang kami jual ialah bata hebel jenis AAC, yakni bata hebel yang dibuat oleh pabrikan bersertifikat SNI. Kami sendiri tidak memasarkan bata ringan hasil produksi rumahan atau disebut juga dg bata hebel macam CLC. Ukuran bata ringan yang kami jual adalah ukuran standar tebal 7,5 cm dan 10 centi meter, lebar 20cm dan panjang 60 cm. Dan untuk merek yang kami pasarkan ada beraneka macam merk, pas dengan ketersediaan stok di pabrik karena kami mengambil langsung dari pabrik bata ringan. Anda dapat mengorder dari kami dengan minimal pengorderan 12,6 kubik dalam sekali pemesanan. Bila anda berkenan dg bata hebel yang kami pasarkan, silakan hubungi kami melalui telepon yang ada di laman ini. Sertakan alamat yang komplit, nomor HP yang aktif dan ukuran bata hebel yang hendak dipesan kepada kami. Thanks.
+
+**Ref by:** [Bata Ringan Hebel Sukaresmi Bogor](https://id.wikipedia.org/wiki/Bata)

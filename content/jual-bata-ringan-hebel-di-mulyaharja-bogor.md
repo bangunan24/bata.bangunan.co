@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Mulyaharja Bogor"
 date: "2024-06-06"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Mulyaharja Bogor. Kami yaitu supplier yang Jual Bata Ringan Hebel Di Mulyaharja Bogor. Bata hebel yang kami pasarkan yaitu bata heb..."
 ---
 
 **Jual Bata Ringan Hebel Di Mulyaharja Bogor** – Banyaknya muncul tipe material terbaru terkhusus pada material tembok menyebabkan kian banyaknya macam material di Indonesia terutama Bata. Merupakan jenis material yang banyak digunakan waktu ini dan masih viral adalah material tembok bata ringan. Bata ringan ini yakni bata yang terus banyak penggunanya apakah di kota-kota maupun di pinggiran. Masyarakat begitu antusias dg bata hebel ini, karena memang banyak banget keunggulan yang ditawarkan oleh bata hebel ini. Selain kekuatan yang telah teruji secara konstruksi, juga selaras dg standar kekuatan material tembok menurut SNI. Bata ringan juga ialah bata yang amat mudah diaplikasikan, presisi dan tidak memakan banyak matrial lainnya, khususnya pasir dan semen. Untuk membuat tembok yang lurus dan juga siku sungguh-sungguh mudah kalau anda membuatnya dg memasang bata ringan ini, karena bata hebel ini dicetak dg permukaan yang rata dan sudut yang presisi, maka saat memasangnya pun akan menghasilkan dinding yang rata dan juga siku. Meskipun terbilang baru bata ringan ini ialah macam bata yang gampang diperoleh karena memang hampir seluruh toko bangunan menyediakan bata hebel ini. Untuk Anda yang berencana membangun dg material bata hebel ini tdk susah untuk mendapatkannya Anda dapat mendapatkannya seperti semudah mendapatkan bata merah.
@@ -56,3 +57,5 @@ Itulah beberapa kekurangan dari bata ringan, Kami harap anda bisa mempertimbangk
 {{< table-tables table="table2" >}}
 
 Kami yaitu supplier yang Jual Bata Ringan Hebel Di Mulyaharja Bogor. Bata hebel yang kami pasarkan yaitu bata hebel jenis AAC, yakni bata ringan yang diproduksi oleh pabrikan bersertifikat SNI. Kami sendiri tidak memasarkan bata ringan hasil produksi rumahan atau disebut juga dg bata ringan jenis CLC. Ukuran bata ringan yang kami jual yakni ukuran standar tebal 7,5 cm dan 10 cm, lebar 20cm dan panjang 60 cm. Sedangkan untuk merek yang kami pasarkan terdapat beraneka macam merk, sesuai dg ketersediaan stok di pabrik karena kami mengambil langsung dari pabrik bata ringan. Anda bisa membeli dari kami dg minimal pengorderan 12,6 kubik dalam sekali pengorderan. Kalau anda berkenan dg bata ringan yang kami jual, silakan hubungi kami lewat telepon yang ada di situs ini. Sertakan data tempat domisili yang lengkap, nomor HP yang aktif dan ukuran bata ringan yang hendak dipesan ke kami. Terima kasih.
+
+**Ref by:** [Bata Ringan Hebel Mulyaharja Bogor](https://id.wikipedia.org/wiki/Bata)

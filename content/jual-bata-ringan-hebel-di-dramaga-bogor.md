@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Dramaga Bogor"
 date: "2024-07-19"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Dramaga Bogor. Kami merupakan penjual yang Jual Bata Ringan Hebel Di Dramaga Bogor. Bata ringan yang kami pasarkan ialah bata ringa..."
 ---
 
 **Jual Bata Ringan Hebel Di Dramaga Bogor** – Meskipun Banyak bermunculan jenis material baru khususnya pada material tembok menghasilkan semakin beragamnya jenis material di Indonesia terutamanya Bata. Salah satu macam material yang banyak dipakai waktu ini dan masih viral adalah material tembok bata hebel. Bata hebel ini ialah bata yang terus meningkat peminatnya baik di ibukota maupun di pinggiran. Masyarakat sangat antusias dg bata ringan ini, sebab memang begitu banyak kelebihan yang ditawarkan oleh bata ringan ini. Selain kualitas yang telah teruji secara konstruksi, juga selaras dengan standar kekuatan material tembok berdasarkan SNI. Bata ringan pun ialah bata yang amat mudah digunakan, presisi dan tdk memakan banyak matrial lainnya, khususnya pasir dan semen. Untuk membuat tembok yang lurus dan juga siku betul-betul mudah seandainya anda membuatnya dengan memasang bata hebel ini, sebab bata hebel ini dicetak dg permukaan yang rata dan sudut yang presisi, maka saat memasangnya juga akan menjadikan tembok yang halus dan juga siku. Meski terbilang baru bata ringan ini yaitu tipe bata yang mudah didapat sebab memang hampir seluruh kios bangunan menjual bata hebel ini. Untuk Anda yang ingin membangun dengan material bata hebel ini tdk sulit untuk mendapatkannya Anda dapat mendapatkannya seperti semudah mendapatkan bata merah.
@@ -56,3 +57,5 @@ Itulah beberapa kekurangan dari bata ringan, Mudah-mudahan anda bisa mempertimba
 {{< table-tables table="table2" >}}
 
 Kami merupakan penjual yang Jual Bata Ringan Hebel Di Dramaga Bogor. Bata ringan yang kami pasarkan ialah bata ringan macam AAC, ialah bata ringan yang dibuat oleh pabrikan bersertifikat SNI. Kami sendiri tidak menjual bata ringan hasil produksi rumahan atau disebut juga dg bata hebel tipe CLC. Ukuran bata hebel yang kami jual yakni ukuran standar tebal 7,5 centi meter dan 10 centi meter, lebar 20cm dan panjang 60 cm. Dan untuk merek yang kami jual terdiri dari beraneka macam merk, sesuai dg ketersediaan stok di pabrik karena kami mengambil langsung dari pabrik bata hebel. Anda bisa mengorder dari kami dengan minimal pengorderan 12,6 kubik dalam sekali pengorderan. Kalau anda berkenan dg bata ringan yang kami jual, silakan hubungi kami melalui telepon yang ada di laman ini. Sertakan alamat yang lengkap, nomor HP yang aktif dan ukuran bata hebel yang hendak dipesan ke kami. Jazaakallohu khairan.
+
+**Ref by:** [Bata Ringan Hebel Dramaga Bogor](https://id.wikipedia.org/wiki/Bata)

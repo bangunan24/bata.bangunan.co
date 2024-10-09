@@ -1,8 +1,9 @@
 ---
-title: Jual Bata Merah Jumbo Di Sukapura Jakarta
-date: '2024-10-03'
-categories:
-  - harga
+title: "Jual Bata Merah Jumbo Di Sukapura Jakarta"
+date: "2022-12-30"
+categories: 
+  - "harga"
+description: "Jual Bata Merah Jumbo Di Sukapura Jakarta. Cara order bata merah yang kami jual pun cukup gampang. Caranya anda hanya tinggal memberikan ke kami data tempat..."
 ---
 
 **Jual Bata Merah Jumbo Di Sukapura Jakarta** – Meskipun zaman telah maju dan bahan material juga jenisnya kian berkembang namun bukan berarti tipe-jenis material yang lama tdk terpakai lagi seperti halnya bata merah. Bata merah merupakan material yang umurnya cukup lama dan telah sejak lama dikenal oleh masyarakat sejak dahulu. Bata merah ini yaitu material yang paling banyak diterapkan di Indonesia sebab memang mudah dalam pembuatannya, mudah untuk mendapatkannya dan gampang pula dalam proses pemasangannya. Meski hari ini banyak sekali material sejenis, seperti hebel atau bata ringan, batako, panel beton ringan, namun eksistensi bata merah tdk tergeser. Bata merah memiliki tempat tersendiri di hati masyarakat. Masyarakat yang paham akan kelebihan dan kualitas dari bata merah ini, mereka tidak tergiur dengan banyaknya bermunculan material sejenis, terlebih mereka yang berada di perkampungan.
@@ -70,3 +71,5 @@ Itulah dua macam ukuran bata merah secara umum yakni; bata merah standar dan bat
 Jika diantara Anda sedang mencari Jual Bata Merah Jumbo Di Sukapura Jakarta yang terdekat dengan daerah anda, maka anda sudah tepat berada di web ini. Sebab kami ialah penjual bata merah yang sudah lama dan terpercaya bata merah yang kami jual merupakan bata merah yang dibakar dg matang. Ukuran batanya juga lengkap, mulai dari bata standar, bata banci dan juga bata jumbo. Bata standar yang kami jual dengan ukuran 4 centi meter x 7 cm x 18 cm, sedangkan bata banci ukuran yang kami jual yakni 4 centi meter x 9 centi meter x 19 cm, dan bata jumbo yang kami jual ukurannya adalah full jumbo; yaitu ukuran 5 cm x 10 centi meter x 20 centi meter. Untuk stok bata merah sendiri kami mempunyai banyak stok, sebab kami juga mempunyai Lio atau lokasi pembakaran bata merah yang banyak, sehingga stok bata merah kami tdk perlu diragukan lagi. Anda dapat mengorder berapapun kuantias yang anda inginkan dari bata merah ini, kami siap melayani nya dan siap mengantarnya ke lokasi proyek anda.
 
 Cara order bata merah yang kami jual pun cukup gampang. Caranya anda hanya tinggal memberikan ke kami data tempat domisili lengkap atau Sharelok, nomor HP yang aktif atau nomor WhatsApp. Setelah itu kami akan mengirim bata merah sesuai dengan quantity yang anda pesan dan ukuran yang anda pesan. Enaknya lagi anda bisa membayarnya saat bata merah yang kami kirim tiba di lokasi proyek Anda. Ini tentunya betul-betul mudah dan tidak Beresiko untuk anda. Walaupun kami menjualnya secara online namun cara pembayarannya yakni pembayaran yang aman, yakni bayar sesudah bata merah tiba di lokasi proyek anda. Kami tidak melayani uang muka atau DP Jadi kami cuma memperoleh uang dikala bata merah yang kami jual telah tiba di lokasi proyek anda.
+
+**Ref by:** [Bata Merah Jumbo Sukapura Jakarta](https://id.wikipedia.org/wiki/Bata)

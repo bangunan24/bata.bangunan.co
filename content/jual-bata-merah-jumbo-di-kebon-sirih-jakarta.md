@@ -1,8 +1,9 @@
 ---
-title: Jual Bata Merah Jumbo Di Kebon Sirih Jakarta
-date: '2024-10-03'
-categories:
-  - harga
+title: "Jual Bata Merah Jumbo Di Kebon Sirih Jakarta"
+date: "2022-12-31"
+categories: 
+  - "harga"
+description: "Jual Bata Merah Jumbo Di Kebon Sirih Jakarta. Sistem order bata merah yang kami jual juga cukup mudah. Caranya anda cuma tinggal memberikan kepada kami data..."
 ---
 
 **Jual Bata Merah Jumbo Di Kebon Sirih Jakarta** – Walaupun zaman sudah maju dan bahan material juga jenisnya kian berkembang tapi bukan berarti jenis-jenis material yang lama tdk terpakai lagi seperti halnya bata merah. Bata merah adalah material yang umurnya cukup lama dan sudah sejak lama diketahui oleh masyarakat sejak dahulu. Bata merah ini yakni material yang paling banyak diterapkan di Indonesia sebab memang gampang dalam produksinya, mudah untuk mendapatkannya dan gampang pula dalam progres pemasangannya. Meski hari ini banyak sekali material sejenis, seperti hebel atau bata ringan, batako, panel beton ringan, tapi keberadaan bata merah tidak tergeser. Bata merah memiliki tempat tersendiri di hati masyarakat. Masyarakat yang paham akan keunggulan dan mutu dari bata merah ini, mereka tidak tergiur dg banyaknya bermunculan material sejenis, terkhusus mereka yang berada di perkampungan.
@@ -70,3 +71,5 @@ Itulah dua jenis ukuran bata merah secara global yaitu; bata merah standar dan b
 Kalau diantara Anda sedang mencari Jual Bata Merah Jumbo Di Kebon Sirih Jakarta yang terdekat dengan daerah anda, karenanya anda telah pas berada di situs ini. Sebab kami ialah penjual bata merah yang sudah lama dan terpercaya bata merah yang kami jual ialah bata merah yang dibakar dengan matang. Ukuran batanya juga lengkap, mulai dari bata standar, bata banci dan juga bata jumbo. Bata standar yang kami jual dg ukuran 4 cm x 7 centi meter x 18 cm, sedangkan bata banci ukuran yang kami jual adalah 4 cm x 9 centi meter x 19 cm, dan bata jumbo yang kami jual ukurannya yakni full jumbo; yakni ukuran 5 centi meter x 10 centi meter x 20 centi meter. Untuk stok bata merah sendiri kami mempunyai banyak stok, sebab kami juga memiliki Lio atau lokasi pembakaran bata merah yang banyak, sehingga stok bata merah kami tidak perlu diragukan lagi. Anda dapat mengorder berapapun jumlah yang anda inginkan dari bata merah ini, kami siap melayani nya dan siap mengirimnya ke lokasi proyek anda.
 
 Sistem order bata merah yang kami jual juga cukup mudah. Caranya anda cuma tinggal memberikan kepada kami data tempat domisili lengkap atau Sharelok, nomor HP yang aktif atau nomor WhatsApp. Setelah itu kami akan mengirim bata merah sesuai dengan quantity yang anda pesan dan ukuran yang anda pesan. Enaknya lagi anda bisa membayarnya dikala bata merah yang kami kirim tiba di lokasi proyek Anda. Ini tentunya sangat mudah dan tdk Beresiko untuk anda. Walaupun kami menjualnya secara online akan tetapi cara pembayarannya yaitu pembayaran yang aman, yakni bayar setelah bata merah tiba di lokasi proyek anda. Kami tdk melayani uang muka atau DP Jadi kami hanya memperoleh uang ketika bata merah yang kami jual telah tiba di lokasi proyek anda.
+
+**Ref by:** [Bata Merah Jumbo Kebon Sirih Jakarta](https://id.wikipedia.org/wiki/Bata)

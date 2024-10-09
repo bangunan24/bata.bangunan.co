@@ -3,6 +3,7 @@ title: "Jual Bata Ringan Hebel Di Cileungsi Bogor"
 date: "2024-07-06"
 categories: 
   - "tempat"
+description: "Jual Bata Ringan Hebel Di Cileungsi Bogor. Kami yaitu penjual yang Jual Bata Ringan Hebel Di Cileungsi Bogor. Bata hebel yang kami pasarkan adalah bata hebel..."
 ---
 
 **Jual Bata Ringan Hebel Di Cileungsi Bogor** – Meski Banyak bermunculan jenis material terbaru terutama pada material tembok menyebabkan kian banyaknya macam material di Indonesia khususnya Bata. Merupakan macam material yang banyak dipakai saat ini dan masih booming yakni material dinding bata hebel. Bata hebel ini yakni bata yang terus meningkat penggunanya baik di ibukota ataupun di perkampungan. Masyarakat sangat antusias dengan bata hebel ini, karena memang banyak banget kelebihan yang ditawarkan oleh bata hebel ini. Selain kualitas yang telah teruji secara konstruksi, juga selaras dg standar kualitas material dinding menurut SNI. Bata hebel pun yakni bata yang sangat mudah dipakai, presisi dan tidak memakan banyak matrial lainnya, khususnya pasir dan semen. Untuk membikin dinding yang lurus dan juga siku benar-benar gampang kalau anda membuatnya dg memasang bata ringan ini, sebab bata ringan ini dicetak dengan permukaan yang rata dan sudut yang presisi, maka dikala memasangnya juga akan menjadikan dinding yang halus dan juga siku. Meski terbilang baru bata ringan ini merupakan macam bata yang mudah didapat sebab memang hampir seluruh kios bangunan menyediakan bata hebel ini. Untuk Anda yang ingin membangun dengan material bata ringan ini tdk sulit untuk mendapatkannya Anda bisa membelinya seperti semudah mendapatkan bata merah.
@@ -56,3 +57,5 @@ Itulah beberapa kekurangan dari bata hebel, Kami harap anda dapat mempertimbangk
 {{< table-tables table="table2" >}}
 
 Kami yaitu penjual yang Jual Bata Ringan Hebel Di Cileungsi Bogor. Bata hebel yang kami pasarkan adalah bata hebel jenis AAC, ialah bata ringan yang diproduksi oleh pabrikan bersertifikat SNI. Kami sendiri tidak menjual bata ringan hasil produksi rumahan atau disebut juga dengan bata ringan jenis CLC. Ukuran bata hebel yang kami jual adalah ukuran standar tebal 7,5 centi meter dan 10 cm, lebar 20cm dan panjang 60 cm. Dan untuk merek yang kami jual terdapat beraneka macam merk, sesuai dg ketersediaan stok di pabrik karena kami mengambil langsung dari pabrik bata ringan. Anda dapat membeli dari kami dg minimal pengorderan 12,6 kubik dalam sekali pemesanan. Kalau anda berkenan dg bata ringan yang kami jual, silakan hubungi kami melalui telepon yang ada di laman ini. Sertakan alamat yang lengkap, nomor HP yang aktif dan ukuran bata ringan yang hendak diorder ke kami. Terima kasih banyak.
+
+**Ref by:** [Bata Ringan Hebel Cileungsi Bogor](https://id.wikipedia.org/wiki/Bata)

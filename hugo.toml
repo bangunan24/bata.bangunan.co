@@ -90,7 +90,7 @@ paginate = 6
   name = "{Budi|Agus|Rudi|Dedi|Samsul|Andi|Fajar|Rio|Wawan|Toni}"
   message = "{Saya membeli|Saya memesan|Saya menggunakan|Saya memilih} bata merah dari bata.bangunan.co untuk {proyek rumah|pembangunan rumah|renovasi rumah|konstruksi rumah} saya, dan hasilnya {sangat memuaskan|luar biasa|mengagumkan|memenuhi ekspektasi}. Kualitas {bata|material|produk} {sangat baik|terbaik|kokoh|solid} dan {pengirimannya|proses pengiriman|pengantaran} {tepat waktu|sesuai jadwal|cepat|sesuai dengan waktu yang dijanjikan}."
   response = "{Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan bata {berkualitas|terbaik|unggulan|prima} untuk proyek rumah Anda.|Terima kasih, atas kepercayaannya. Kami senang produk bata kami dapat {mendukung|memenuhi kebutuhan|memfasilitasi} proyek Anda.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
@@ -104,7 +104,7 @@ paginate = 6
   name = "{Joko|Bayu|Toni|Galih|Bambang|Ali|Rizal|Faisal|Yanto|Deni}"
   message = "Bata hebel dari bata.bangunan.co {sangat cocok|tepat|ideal|pas} untuk proyek {perumahan|pembangunan perumahan|konstruksi perumahan|proyek besar} saya. {Proses pembelian|Pembelian|Transaksi} dan {pengirimannya|pengantaran|delivery} juga {cepat|tidak lama|efisien|sesuai harapan} dan {bisa bayar COD|tersedia opsi COD|dapat menggunakan metode COD|COD diterima}."
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan bata {berkualitas|terbaik|unggulan} dengan layanan {terbaik|terdepan|prima}.|Senang mendengar pengalaman belanja Anda. Terima kasih telah memilih kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
@@ -118,7 +118,7 @@ paginate = 6
   name = "{Rina|Siti|Lina|Ayu|Dewi|Fitri|Diah|Nur|Maya|Sari}"
   message = "Pelayanan bata.bangunan.co {sangat memuaskan|luar biasa|memuaskan|hebat}. Material {bata hebel|hebel|produk bata} yang saya beli {sangat berkualitas|terbaik|luar biasa|berkualitas tinggi} dan {sesuai dengan harapan saya|seperti yang saya inginkan|memenuhi ekspektasi saya|memuaskan}. "
   response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan bata {terbaik|berkualitas|unggulan}.|Kami sangat menghargai kepercayaan Anda. Senang produk kami dapat mendukung proyek Anda.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"

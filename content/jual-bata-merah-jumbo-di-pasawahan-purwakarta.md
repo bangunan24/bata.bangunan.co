@@ -1,8 +1,9 @@
 ---
-title: Jual Bata Merah Jumbo Di Pasawahan Purwakarta
-date: '2024-10-03'
-categories:
-  - harga
+title: "Jual Bata Merah Jumbo Di Pasawahan Purwakarta"
+date: "2023-01-02"
+categories: 
+  - "harga"
+description: "Jual Bata Merah Jumbo Di Pasawahan Purwakarta. Sistem order bata merah yang kami jual pun cukup mudah. Caranya anda cuma tinggal memberikan kepada kami alama..."
 ---
 
 **Jual Bata Merah Jumbo Di Pasawahan Purwakarta** – Meskipun zaman sudah maju dan bahan material pun jenisnya kian berkembang tapi bukan berarti jenis-jenis material yang lama tdk terpakai lagi seperti halnya bata merah. Bata merah yakni material yang umurnya cukup lama dan telah sejak lama diketahui oleh masyarakat sejak dahulu. Bata merah ini yakni material yang paling banyak diterapkan di Indonesia sebab memang gampang dalam produksinya, mudah untuk mendapatkannya dan mudah pula dalam progres pemasangannya. Meskipun hari ini banyak sekali material sejenis, seperti hebel atau bata ringan, batako, panel beton ringan, akan tetapi eksistensi bata merah tdk tergeser. Bata merah mempunyai posisi tersendiri di hati masyarakat. Masyarakat yang paham akan kelebihan dan kualitas dari bata merah ini, mereka tidak tergiur dg banyaknya bermunculan material sejenis, terkhusus mereka yang berada di perkampungan.
@@ -70,3 +71,5 @@ Itulah dua tipe ukuran bata merah secara umum yakni; bata merah standar dan bata
 Sekiranya diantara Anda sedang mencari Jual Bata Merah Jumbo Di Pasawahan Purwakarta yang terdekat dg tempat anda, maka anda telah pas berada di laman ini. Sebab kami ialah penjual bata merah yang sudah lama dan terpercaya bata merah yang kami jual yaitu bata merah yang dibakar dengan matang. Ukuran batanya juga komplit, mulai dari bata standar, bata banci dan juga bata jumbo. Bata standar yang kami jual dg ukuran 4 centi meter x 7 centi meter x 18 centi meter, dan bata banci ukuran yang kami jual yaitu 4 cm x 9 centi meter x 19 cm, dan bata jumbo yang kami jual ukurannya yakni full jumbo; yaitu ukuran 5 cm x 10 centi meter x 20 cm. Untuk stok bata merah sendiri kami memiliki banyak stok, sebab kami juga mempunyai Lio atau tempat pembakaran bata merah yang banyak, sehingga stok bata merah kami tdk perlu diragukan lagi. Anda bisa mengorder berapapun jumlah yang anda inginkan dari bata merah ini, kami siap melayani nya dan siap mengantarnya ke lokasi proyek anda.
 
 Sistem order bata merah yang kami jual pun cukup mudah. Caranya anda cuma tinggal memberikan kepada kami alamat lengkap atau Sharelok, nomor HP yang aktif atau nomor WhatsApp. Setelah itu kami akan mengirim bata merah sesuai dengan quantity yang anda pesan dan ukuran yang anda pesan. Enaknya lagi anda bisa membayarnya dikala bata merah yang kami kirim tiba di lokasi proyek Anda. Ini tentunya benar-benar mudah dan tidak Beresiko untuk anda. Meski kami memasarkannya secara online akan tetapi sistem pembayarannya yakni pembayaran yang aman, yaitu bayar sesudah bata merah tiba di lokasi proyek anda. Kami tdk melayani uang muka atau DP Jadi kami hanya memperoleh uang dikala bata merah yang kami jual sudah tiba di lokasi proyek anda.
+
+**Ref by:** [Bata Merah Jumbo Pasawahan Purwakarta](https://id.wikipedia.org/wiki/Bata)
