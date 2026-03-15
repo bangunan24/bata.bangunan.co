@@ -1,55 +1,56 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Fajar
+    name: Dedi
     message: >-
-      Saya memilih bata merah dari bata.bangunan.co untuk konstruksi rumah saya,
-      dan hasilnya memenuhi ekspektasi. Kualitas produk kokoh dan pengirimannya
-      sesuai jadwal.
+      Saya memesan bata merah dari bata.bangunan.co untuk renovasi rumah saya,
+      dan hasilnya memenuhi ekspektasi. Kualitas material solid dan pengantaran
+      tepat waktu.
     response: >-
       Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan bata
-      prima untuk proyek rumah Anda.
+      unggulan untuk proyek rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Dewi
+    name: Sari
     message: >-
       bata.bangunan.co sangat membantu dalam menentukan jenis bata untuk
-      konstruksi rumah saya. Material yang saya beli berkualitas dan sesuai
-      dengan permintaan saya.
+      konstruksi rumah saya. Produk yang saya beli berkualitas dan sesuai dengan
+      keinginan saya.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
-      dengan produk bata dari kami.
+      Terima kasih! Kami senang dapat membantu Anda dalam memilih produk yang
+      sesuai dengan kebutuhan.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Ali
+    name: Rizal
     message: >-
-      Bata hebel dari bata.bangunan.co pas untuk proyek proyek besar saya.
-      Proses pembelian dan pengirimannya juga efisien dan bisa bayar COD.
+      Bata hebel dari bata.bangunan.co sangat cocok untuk proyek proyek besar
+      saya. Proses pembelian dan delivery juga cepat dan dapat menggunakan
+      metode COD.
     response: Senang mendengar pengalaman belanja Anda. Terima kasih telah memilih kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Benny
+    name: Agus
     message: >-
       Saya sangat puas dengan bata merah dari bata.bangunan.co. Kualitasnya luar
-      biasa dan pas untuk proyek proyek besar saya.
+      biasa dan sesuai untuk proyek pembangunan saya.
     response: >-
       Terima kasih! Kami sangat menghargai kepercayaan Anda dalam menggunakan
       produk kami.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Sari
+    name: Rina
     message: >-
-      Pelayanan bata.bangunan.co sangat memuaskan. Material bata hebel yang saya
-      beli berkualitas tinggi dan memenuhi ekspektasi saya. 
+      Pelayanan bata.bangunan.co hebat. Material produk bata yang saya beli
+      berkualitas tinggi dan seperti yang saya inginkan. 
     response: >-
       Kami sangat menghargai kepercayaan Anda. Senang produk kami dapat
       mendukung proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Wawan
+    name: Gilang
     message: >-
-      Produk bata dari bata.bangunan.co sangat pas dengan kebutuhan proyek
-      pembangunan rumah saya. Layanan pengirimannya tidak lama dan aman.
+      Bata dari bata.bangunan.co sangat sesuai dengan spesifikasi proyek
+      pembangunan rumah saya. Proses pengirimannya tidak lama dan aman.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk bata kami. Terima
-      kasih atas ulasannya!
+      Terima kasih! Kami senang dapat memenuhi harapan Anda dengan produk bata
+      kami.
     rating: 5
