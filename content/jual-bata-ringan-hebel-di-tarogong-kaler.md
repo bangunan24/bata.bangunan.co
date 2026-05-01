@@ -1,6 +1,6 @@
 ---
 title: Jual Bata Ringan Hebel Di Tarogong Kaler
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - tempat
 description: >-
