@@ -1,6 +1,6 @@
 ---
 title: Jual Bata Ringan Hebel Di Kartini Jakarta
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - tempat
 description: >-
