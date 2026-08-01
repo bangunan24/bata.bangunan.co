@@ -1,6 +1,6 @@
 ---
 title: Jual Bata Merah Jumbo Di Telukjambe Karawang
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - harga
 description: >-
